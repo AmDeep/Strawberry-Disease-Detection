@@ -1,7 +1,2 @@
-# Deep strawberry
-Detecting strawberries from a custom dataset using [Mask RCNN](https://github.com/matterport/Mask_RCNN).
-
-![strawberry](https://raw.githubusercontent.com/asyaf/deep_strawberry/master/customImages/train/strawberry%20(1).jpg)
-
-
-Training was done using [Google Colab](https://colab.research.google.com).
+# Strawberry-Leaf-Disease-Detection-Using-CNN-VGG16
+Here I used a convolutional neural network (CNN) and VGG16(one type of CNN) is being used to detect strawberry leaf disease. From the Plant Village dataset, I only used Strawberry leaf data to measure which model gives the best result detecting disease. VGG16 usage transfer learning method which has been used in many application. This project demonstrates the performance of both machine learning models. In the future, I will use other models like VGG19, ResNet50, Alex net, etc and show the results. 
